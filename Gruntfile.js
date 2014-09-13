@@ -4,7 +4,7 @@ module.exports = function(grunt) {
 
     grunt.initConfig({
         exec: {
-            copy: 'cp  ~/Dropbox/ST3/User/Package\\ Control.sublime-settings .'
+            copy: 'cp  -rf ~/Dropbox/ST3/User/Package\\ Control.sublime-settings .'
         },
 
         bump: {
