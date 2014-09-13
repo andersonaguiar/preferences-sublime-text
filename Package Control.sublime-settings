@@ -1,0 +1,28 @@
+{
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"Blade Snippets",
+		"Clickable URLs",
+		"Color Highlighter",
+		"CSScomb",
+		"Dracula Color Scheme",
+		"EditorConfig",
+		"Emmet",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"JSHint Gutter",
+		"Laravel Blade Highlighter",
+		"PHP Completions Kit",
+		"Placeholders",
+		"Sass",
+		"Stylus",
+		"Sublime Text 3 Snippets",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jshint",
+		"Theme - Phoenix",
+		"WakaTime"
+	]
+}
