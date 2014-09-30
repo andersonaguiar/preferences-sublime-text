@@ -4,14 +4,15 @@ module.exports = function(grunt) {
 
     grunt.initConfig({
         exec: {
-            copy: 'cp  -rf ~/Dropbox/ST3/User/Package\\ Control.sublime-settings .'
+            copyControl: 'cp  -rf ~/Dropbox/ST3/User/Package\\ Control.sublime-settings .',
+            copyPreferences: 'cp  -rf ~/Dropbox/ST3/User/Preferences.sublime-settings .'
         },
 
         bump: {
             options: {
                 // files: ['Package Control.sublime-settings'],
                 commit: true,
-                commitMessage: 'Update list of plugins',
+                commitMessage: 'Update preferences',
                 commitFiles: ['-a'],
                 push: true,
                 createTag: false,
@@ -20,5 +21,5 @@ module.exports = function(grunt) {
         }
     });
 
-    grunt.registerTask('build', ['exec:copy', 'bump']);
+    grunt.registerTask('build', ['exec:copyControl', 'exec:copyPreferences', 'bump']);
 };
