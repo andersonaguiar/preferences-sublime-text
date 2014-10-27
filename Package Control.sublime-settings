@@ -2,7 +2,6 @@
 	"installed_packages":
 	[
 		"AutoFileName",
-		"AutomaticFullscreen",
 		"Autoprefixer",
 		"Blade Snippets",
 		"caniuse_local",
@@ -13,6 +12,8 @@
 		"Dracula Color Scheme",
 		"EditorConfig",
 		"Emmet",
+		"FullScreenStatus",
+		"Inline Google Translate",
 		"JavaScript Snippets",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
