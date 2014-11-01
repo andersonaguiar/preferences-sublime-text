@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"font_size": 13,
+	"show_full_path": true,
 	"ignored_packages":
 	[
 		"Vintage"
