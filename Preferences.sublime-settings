@@ -1,7 +1,6 @@
 {
 	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"font_size": 13,
-	"show_full_path": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -13,6 +12,7 @@
 	"phoenix_highlight_current_tab": true,
 	"phoenix_solid_current_tab": true,
 	"phoenix_tabs_small": true,
+	"show_full_path": true,
 	"theme": "Phoenix Dark.sublime-theme",
 	"word_wrap": false
 }
