@@ -1,17 +1,18 @@
 {
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+	"color_scheme": "Packages/User/Monokai Phoenix (SL).tmTheme",
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"Dracula Color Scheme",
-		"SublimeLinter",
 		"SublimeCodeIntel",
-		"Color Highlighter",
-		"JavaScriptNext - ES6 Syntax",
-		"Vintage",
 		"Theme - Phoenix",
+		"Color Highlighter",
+		"Vintage",
+		"WakaTime",
+		"Dracula Color Scheme",
+		"JSHint Gutter",
 		"JsFormat",
-		"WakaTime"
+		"SublimeLinter",
+		"JavaScriptNext - ES6 Syntax"
 	],
 	"word_wrap": false
 }
