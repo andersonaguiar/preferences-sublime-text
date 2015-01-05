@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AutoFileName",
@@ -19,6 +27,8 @@
 		"JSHint Gutter",
 		"Laravel Blade Highlighter",
 		"Origami",
+		"Package Control",
+		"PhpSpec Snippets",
 		"Placeholders",
 		"Sass",
 		"SideBarEnhancements",
@@ -26,6 +36,8 @@
 		"Sublime Text 3 Snippets",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"Theme - Phoenix",
