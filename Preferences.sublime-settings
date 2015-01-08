@@ -3,15 +3,15 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"Dracula Color Scheme",
-		"JavaScriptNext - ES6 Syntax",
+		"Vintage",
+		"Theme - Phoenix",
+		"JsFormat",
 		"JSHint Gutter",
 		"WakaTime",
-		"JsFormat",
 		"SublimeLinter",
 		"SublimeCodeIntel",
-		"Vintage",
-		"Theme - Phoenix"
+		"Dracula Color Scheme",
+		"JavaScriptNext - ES6 Syntax"
 	],
 	"word_wrap": false
 }
