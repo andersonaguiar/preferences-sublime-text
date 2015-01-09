@@ -3,14 +3,14 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"JsFormat",
-		"Vintage",
-		"SublimeCodeIntel",
-		"Theme - Phoenix",
-		"SublimeLinter",
 		"Dracula Color Scheme",
-		"JavaScriptNext - ES6 Syntax",
+		"SublimeLinter",
 		"JSHint Gutter",
+		"Theme - Phoenix",
+		"JavaScriptNext - ES6 Syntax",
+		"Vintage",
+		"JsFormat",
+		"SublimeCodeIntel",
 		"WakaTime"
 	],
 	"word_wrap": false
