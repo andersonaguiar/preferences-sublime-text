@@ -3,15 +3,14 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"SublimeLinter",
 		"JavaScriptNext - ES6 Syntax",
-		"WakaTime",
-		"Dracula Color Scheme",
-		"JSHint Gutter",
 		"Vintage",
-		"JsFormat",
+		"SublimeLinter",
+		"Theme - Phoenix",
+		"JSHint Gutter",
 		"SublimeCodeIntel",
-		"Theme - Phoenix"
+		"JsFormat",
+		"Dracula Color Scheme"
 	],
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
