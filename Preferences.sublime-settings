@@ -1,18 +1,20 @@
 {
 	"color_scheme": "Packages/User/Monokai Phoenix (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 13,
 	"ignored_packages":
 	[
 		"Theme - Phoenix",
 		"JavaScriptNext - ES6 Syntax",
-		"SublimeCodeIntel",
-		"JsFormat",
-		"Dracula Color Scheme",
 		"JSHint Gutter",
+		"Dracula Color Scheme",
+		"SublimeCodeIntel",
 		"SublimeLinter",
+		"JsFormat",
 		"Vintage"
 	],
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }
