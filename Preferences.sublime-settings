@@ -1,19 +1,24 @@
 {
-	"color_scheme": "Packages/User/Monokai Phoenix (SL).tmTheme",
+	"centurion_folder_icons": true,
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"contrasted_sidebar": true,
+	"contrasted_tabs": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 13,
+	"icon_file_type_enable": true,
 	"ignored_packages":
 	[
-		"Theme - Phoenix",
-		"JavaScriptNext - ES6 Syntax",
-		"JSHint Gutter",
-		"Dracula Color Scheme",
-		"SublimeCodeIntel",
+		"Vintage",
 		"SublimeLinter",
-		"JsFormat",
-		"Vintage"
+		"JavaScriptNext - ES6 Syntax",
+		"Theme - Phoenix",
+		"SublimeCodeIntel",
+		"JSHint Gutter",
+		"JsFormat"
 	],
+	"small_ui_font": true,
 	"tab_size": 2,
+	"theme": "Cyanide.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false

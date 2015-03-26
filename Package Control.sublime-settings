@@ -18,6 +18,7 @@
 		"Dracula Color Scheme",
 		"EditorConfig",
 		"Emmet",
+		"GitGutter",
 		"Gulp",
 		"Inline Google Translate",
 		"JavaScript Snippets",
@@ -45,6 +46,7 @@
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
+		"Theme - Cyanide",
 		"Theme - Phoenix",
 		"WakaTime"
 	]
