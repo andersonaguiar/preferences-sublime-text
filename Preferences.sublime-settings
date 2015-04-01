@@ -1,20 +1,20 @@
 {
-	"centurion_folder_icons": true,
+	"centurion_folder_icons": false,
 	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 13,
-	"icon_file_type_enable": true,
+	"icon_file_type_enable": false,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeLinter",
-		"JavaScriptNext - ES6 Syntax",
 		"Theme - Phoenix",
+		"Vintage",
+		"JavaScriptNext - ES6 Syntax",
+		"SublimeLinter",
+		"JsFormat",
 		"SublimeCodeIntel",
-		"JSHint Gutter",
-		"JsFormat"
+		"JSHint Gutter"
 	],
 	"small_ui_font": true,
 	"tab_size": 2,
