@@ -9,13 +9,17 @@
 	"icon_file_type_enable": false,
 	"ignored_packages":
 	[
+		"SublimeCodeIntel",
+		"Theme - Phoenix",
 		"JavaScriptNext - ES6 Syntax",
 		"SublimeLinter",
-		"SublimeCodeIntel",
-		"JSHint Gutter",
 		"Vintage",
-		"JsFormat",
-		"Theme - Phoenix"
+		"JSHint Gutter",
+		"JsFormat"
+	],
+	"rulers":
+	[
+		90
 	],
 	"show_encoding": true,
 	"show_full_path": true,
